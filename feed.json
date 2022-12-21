@@ -2,17 +2,17 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "企鵝哥電腦小站",
     "description": "",
-    "home_page_url": "https://510208.github.io/site",
-    "feed_url": "https://510208.github.io/site/feed.json",
+    "home_page_url": "https://git.penguinblog.tk",
+    "feed_url": "https://git.penguinblog.tk/feed.json",
     "user_comment": "",
-    "icon": "https://510208.github.io/site/media/website/510208-MarkMaker-Logo.svg",
+    "icon": "https://git.penguinblog.tk/media/website/510208-MarkMaker-Logo.svg",
     "author": {
         "name": "510208企鵝哥"
     },
     "items": [
         {
-            "id": "https://510208.github.io/site/yi-pian-ce-shi-wen-zhang.html",
-            "url": "https://510208.github.io/site/yi-pian-ce-shi-wen-zhang.html",
+            "id": "https://git.penguinblog.tk/yi-pian-ce-shi-wen-zhang.html",
+            "url": "https://git.penguinblog.tk/yi-pian-ce-shi-wen-zhang.html",
             "title": "一篇測試文章",
             "summary": "這只是一篇由Publii扔上去的測試文章而已",
             "content_html": "<p>這只是一篇由Publii扔上去的測試文章而已</p>\n<p> </p>",

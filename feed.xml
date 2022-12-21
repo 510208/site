@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>企鵝哥電腦小站</title>
-    <link href="https://510208.github.io/site/feed.xml" rel="self" />
-    <link href="https://510208.github.io/site" />
+    <link href="https://git.penguinblog.tk/feed.xml" rel="self" />
+    <link href="https://git.penguinblog.tk" />
     <updated>2022-12-18T19:07:41+08:00</updated>
     <author>
         <name>510208企鵝哥</name>
     </author>
-    <id>https://510208.github.io/site</id>
+    <id>https://git.penguinblog.tk</id>
 
     <entry>
         <title>一篇測試文章</title>
         <author>
             <name>510208企鵝哥</name>
         </author>
-        <link href="https://510208.github.io/site/yi-pian-ce-shi-wen-zhang.html"/>
-        <id>https://510208.github.io/site/yi-pian-ce-shi-wen-zhang.html</id>
+        <link href="https://git.penguinblog.tk/yi-pian-ce-shi-wen-zhang.html"/>
+        <id>https://git.penguinblog.tk/yi-pian-ce-shi-wen-zhang.html</id>
 
         <updated>2022-12-18T19:07:41+08:00</updated>
             <summary>
